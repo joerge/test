@@ -7,7 +7,7 @@ Created on 2013-5-29
 from qi.models import *
 from datetime import datetime;
 from datetime import date;
-from django.db.models import F;
+from django.db.models import F;  
 
 
 # print(Catalog.objects.all())
