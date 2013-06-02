@@ -8,7 +8,7 @@ from qi.models import *
 from datetime import datetime;
 from datetime import date;
 from django.db.models import F;   
-
+# add test 
 
 # print(Catalog.objects.all())
 
